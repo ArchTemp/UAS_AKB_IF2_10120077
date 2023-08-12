@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "125212616839",
+    "firebase_url": "https://uas-akb-10120077-ca7c3-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "uas-akb-10120077-ca7c3",
+    "storage_bucket": "uas-akb-10120077-ca7c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125212616839:android:4fed5d6b20077f79aff022",
+        "android_client_info": {
+          "package_name": "com.example.uas_akb_10120077"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125212616839-00rmmj2lc53ojh6sn7ek6h36odmqusid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEqrH4MTLYmYUVs7C_dS8Rpazh6g6kw7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125212616839-00rmmj2lc53ojh6sn7ek6h36odmqusid.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
